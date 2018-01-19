@@ -1,0 +1,8 @@
+2018-01-18 16:49:08,973 - framework - INFO - url is http://www.baidu.com
+2018-01-18 16:55:58,601 - framework - INFO - <utils.config.Config object at 0x0000000001F06CC0>
+2018-01-18 16:56:42,570 - framework - INFO - <utils.config.Config object at 0x00000000037A8E80>
+2018-01-18 17:02:42,411 - framework - INFO - http://www.baidu.com
+2018-01-18 17:05:57,358 - framework - INFO - http://www.baidu.com
+2018-01-18 17:06:15,316 - framework - INFO - http://www.baidu.com
+2018-01-18 17:13:31,080 - framework - INFO - http://www.baidu.com
+2018-01-18 17:14:19,760 - framework - INFO - http://www.baidu.com

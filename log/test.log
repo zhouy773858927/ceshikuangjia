@@ -1,0 +1,4 @@
+2018-01-19 14:55:50,903 - framework - INFO - url is http://www.baidu.com
+2018-01-19 14:55:50,929 - framework - INFO - [{'search': 'selenium 灰蓝'}, {'search': 'Python selenium'}] is in excel 
+2018-01-19 14:56:01,779 - framework - INFO - now is search selenium 灰蓝
+2018-01-19 14:56:14,557 - framework - INFO - now is search Python selenium
