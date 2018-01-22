@@ -27,6 +27,7 @@ class TestBaidu(unittest.TestCase):
         for d in datas:#遍历该excel中数据
             with self.subTest(data =d):#subTest参数化
                 self.sub_setUp()
+                #   *为可变参数
                 self.driver.find_element(*self.locator_kw).send_keys(d["search"])
                 self.driver.find_element(*self.locator_su).click()
                 time.sleep(2)
